@@ -9,7 +9,7 @@ url = "https://jsearch.p.rapidapi.com/search"
 querystring = {"query":"Data Engineer in Ontario, Canada","page":"1","num_pages":"1","date_posted":"month"}
 
 headers = {
-	"X-RapidAPI-Key":'31ce0aa7bbmsh94ccb907459abccp1ac1dcjsnfa11be6d3059',
+	"X-RapidAPI-Key":'MyPassword,
 	"X-RapidAPI-Host":'jsearch.p.rapidapi.com'
     
 }
